@@ -6,14 +6,11 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **VLSI & Hardware** | Verilog, SystemVerilog, Xilinx Vivado, Cadence Virtuoso, Synopsys |
-| **Process Modeling** | Coventor / Lam Research SEMulator3D |
-| **Embedded Systems** | STM32 Microcontrollers, Arduino, PicSimLab, LabVIEW, C/C++ |
-| **Data & AI** | PyTorch, Python, MATLAB, SQL |
-| **Cloud & Platforms** | AWS, Google Cloud |
+- **VLSI & Hardware:** Verilog, SystemVerilog, Xilinx Vivado, Cadence Virtuoso, Synopsys
+- **Process Modeling:** Coventor / Lam Research SEMulator3D
+- **Embedded Systems:** STM32 Microcontrollers, Arduino, PicSimLab, LabVIEW, C/C++
+- **Data & AI:** PyTorch, Python, MATLAB, SQL
+- **Cloud & Platforms:** AWS, Google Cloud
 
 ---
 
@@ -50,4 +47,4 @@
 ---
 
 ### 🎯 Career Objective
-To leverage a multidisciplinary foundation in VLSI design, embedded systems, and deep learning to engineer innovative hardware architectures. I aim to contribute to a forward-thinking organization where I can design smart, real-time systems that bridge the gap between physical silicon and intelligent software.
+A passionate and adaptable engineer driven by continuous learning and professional growth. I am highly interested in exploring new technologies, refining my technical skills, and taking on complex challenges to build impactful, real-world solutions.
