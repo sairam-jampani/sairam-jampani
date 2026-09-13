@@ -6,11 +6,15 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **VLSI & Hardware:** Verilog, SystemVerilog, Xilinx Vivado, Cadence Virtuoso, Synopsys
-- **Process Modeling:** Coventor / Lam Research SEMulator3D
-- **Embedded Systems:** STM32 Microcontrollers, Arduino, PicSimLab, LabVIEW, C/C++
-- **Data & AI:** PyTorch, Python, MATLAB, SQL
-- **Cloud & Platforms:** AWS, Google Cloud
+- 💻 Verilog & SystemVerilog
+- 🧰 Xilinx Vivado, Cadence Virtuoso & Synopsys
+- 🔬 Coventor / Lam Research SEMulator3D
+- 🔌 STM32, Arduino & Embedded Systems
+- 🐍 Python
+- 🧠 PyTorch & MATLAB
+- 🗄️ SQL
+- ☁️ AWS & Google Cloud
+
 
 ---
 
@@ -47,4 +51,4 @@
 ---
 
 ### 🎯 Career Objective
-A passionate and adaptable engineer driven by continuous learning and professional growth. I am highly interested in exploring new technologies, refining my technical skills, and taking on complex challenges to build impactful, real-world solutions.
+An adaptable engineer driven by continuous learning and professional growth. I am highly interested in exploring new technologies, refining my technical skills, and passionate to build impactful, real-world solutions.
