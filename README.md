@@ -30,7 +30,7 @@
 *   Utilized embedded measurement techniques to calculate the exact distance to the fault, reducing manual troubleshooting time.
 *   Designed the sensor architecture to maintain high reliability and accuracy for subterranean conditions.
 
-#### 🚦 Geo-Adaptive Dynamic Speed Lock (Heavy Vehicles)
+#### 🛑 Geo-Adaptive Dynamic Speed Lock (Heavy Vehicles)
 *   Conceptualized a GPS-based vehicle speed control system targeting high-risk areas like school zones, damaged bridges, and restricted lanes.
 *   Automatically throttles vehicle acceleration dynamically based on live map telemetry and road conditions.
 *   Engineered specifically to maximize road safety and enforce compliance without requiring driver intervention.
