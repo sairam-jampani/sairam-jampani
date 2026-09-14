@@ -21,14 +21,14 @@
 ### 🚀 Featured Projects
 
 #### 🚗 EV & ADAS Dashboard
-*   Developed a real-time vehicle telemetry visualization system utilizing STM32 microcontrollers.
+*   Developed a vehicle telemetry visualization system utilizing STM32 microcontrollers.
 *   Integrated Advanced Driver Assistance Systems (ADAS) features for live safety metrics and driver alerts.
 *   Optimized for low-latency hardware processing to ensure critical vehicle data updates instantaneously.
 
 #### ⚡ Underground Cable Fault Detection
 *   Engineered an automated hardware diagnostic system to identify and locate physical line anomalies.
 *   Utilized embedded measurement techniques to calculate the exact distance to the fault, reducing manual troubleshooting time.
-*   Designed the sensor architecture to maintain high reliability and accuracy for subterranean conditions.
+
 
 #### 🛑 Geo-Adaptive Dynamic Speed Lock (Heavy Vehicles)
 *   Conceptualized a GPS-based vehicle speed control system targeting high-risk areas like school zones, damaged bridges, and restricted lanes.
