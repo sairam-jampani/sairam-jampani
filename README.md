@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🚗 Smart EV & ADAS Dashboard
+#### 🚗 EV & ADAS Dashboard
 *   Developed a real-time vehicle telemetry visualization system utilizing STM32 microcontrollers.
 *   Integrated Advanced Driver Assistance Systems (ADAS) features for live safety metrics and driver alerts.
 *   Optimized for low-latency hardware processing to ensure critical vehicle data updates instantaneously.
