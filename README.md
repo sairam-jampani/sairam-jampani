@@ -23,7 +23,7 @@
 #### 🚗 EV & ADAS Dashboard
 *   Developed a vehicle telemetry visualization system utilizing STM32 microcontrollers.
 *   Integrated Advanced Driver Assistance Systems (ADAS) features for live safety metrics and driver alerts.
-*   Optimized for low-latency hardware processing to ensure critical vehicle data updates instantaneously.
+
 
 #### ⚡ Underground Cable Fault Detection
 *   Engineered an automated hardware diagnostic system to identify and locate physical line anomalies.
