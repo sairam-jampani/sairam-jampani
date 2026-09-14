@@ -43,10 +43,10 @@
 ---
 
 ### 📚 Currently Learning
-- SystemVerilog
+- Nano Fabrication - SEMulator3D
 - Design Verification
 - UVM Basics
-- Physical Design Flow
+- Applied ML
 
 ---
 
