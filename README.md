@@ -46,7 +46,7 @@
 - Nano Fabrication - SEMulator3D
 - Design Verification
 - UVM Basics
-- Applied ML
+
 
 ---
 
