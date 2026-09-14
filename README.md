@@ -6,14 +6,14 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- 💻 Verilog & SystemVerilog
-- 🧰 Xilinx Vivado, Cadence Virtuoso & Synopsys
-- 🔬 Coventor / Lam Research SEMulator3D
-- 🔌 STM32, Arduino & Embedded Systems
-- 🐍 Python
-- 🧠 PyTorch & MATLAB
-- 🗄️ SQL
-- ☁️ AWS & Google Cloud
+-  Verilog & SystemVerilog
+-  Xilinx Vivado, Cadence Virtuoso & Synopsys
+-  Coventor / Lam Research SEMulator3D
+-  STM32, Arduino & Embedded Systems
+-  Python
+-  PyTorch & MATLAB
+-  SQL
+-  AWS & Google Cloud
 
 
 ---
